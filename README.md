@@ -1,4 +1,4 @@
 # AYUSHNAGAR-DEMO
 THIS IS MY FIRST GIT REPOSITORY
 <br>
-author: ayush nagar
+Author: ayush nagar
